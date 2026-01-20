@@ -1,4 +1,4 @@
 // Service removed
-export const generateCreativeConcept = async (keywords: string): Promise<string> => {
+export const generateCreativeConcept = async (_keywords: string): Promise<string> => {
   return "";
 };
