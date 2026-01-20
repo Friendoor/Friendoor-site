@@ -50,7 +50,7 @@ const About: React.FC = () => {
                  <span className="text-sm uppercase tracking-widest text-gray-500">Brands Elevated</span>
                </div>
                <div>
-                 <span className="block text-4xl font-bold font-display">>10 Years</span>
+                 <span className="block text-4xl font-bold font-display">&gt;10 Years</span>
                  <span className="text-sm uppercase tracking-widest text-gray-500">Creative Experience</span>
                </div>
             </div>
